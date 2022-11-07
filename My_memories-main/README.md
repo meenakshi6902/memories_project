@@ -1,6 +1,6 @@
 Memories Manager (Full-Stack App)
 
-### Backend Deployed at: :link: https://memories-app6.herokuapp.com/posts
+
 
 ---
 
