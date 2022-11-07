@@ -1,7 +1,5 @@
 Memories Manager (Full-Stack App)
 
-### Link :link: https://damp-falls-64323.herokuapp.com/
-
 ### Backend Deployed at: :link: https://memories-app6.herokuapp.com/posts
 
 ---
