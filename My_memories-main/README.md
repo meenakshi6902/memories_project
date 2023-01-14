@@ -5,8 +5,7 @@ Memories Manager (Full-Stack App)
 ---
 
 
-<p align="center"><img src="./demo.png" width="800"></p>
-![demo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNJOUJMmcNc6TW286menIeMS-4izE0_fzYLS2zWTt&s)
+<p align="center"><img src="./demo.png" alt="image" width="800"></p>
 
 ---
 
