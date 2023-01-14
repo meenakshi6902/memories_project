@@ -6,6 +6,7 @@ Memories Manager (Full-Stack App)
 
 
 <p align="center"><img src="./demo.png" width="800"></p>
+![demo](./demo.png)
 
 ---
 
