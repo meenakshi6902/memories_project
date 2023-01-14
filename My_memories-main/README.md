@@ -6,9 +6,8 @@ Memories Manager (Full-Stack App)
 
 ---
 
-
 <p align="center"><img src="./demo.png" width="800"></p>
-
+<p align="center"><img src="./mem.jpg" width="800"></p>
 ---
 
 ## Features
@@ -16,7 +15,7 @@ Memories Manager (Full-Stack App)
 - Create and Update Memories
 - Like and Delete Memories
 - View Other user's memories
--  Authentication (Login/Signup) and with (Google)
+- Authentication (Login/Signup) and with (Google)
 - Mobile Responsive
 - Pagination
 
