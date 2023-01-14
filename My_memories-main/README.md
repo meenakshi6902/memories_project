@@ -2,7 +2,7 @@ Memories Manager (Full-Stack App)
 
 ---
 
-<p align="center"><img src="./demo.png" width="800"></p>
+<p align="center"><img src="./mem.jpg" width="800"></p>
 
 ---
 
