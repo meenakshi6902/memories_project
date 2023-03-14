@@ -1,9 +1,7 @@
 Memories Manager (Full-Stack App)
 
 ---
-
-![110456493-38eb7100-80fc-11eb-8bca-79cfa322df8f](https://user-images.githubusercontent.com/115708565/225047542-0ded7842-afd5-41e2-822d-719f45cbdeba.jpeg)
-
+<img width="960" alt="demo" src="https://user-images.githubusercontent.com/115708565/225049524-04ad6461-a6f2-4eb0-8b9d-a5ac9a1cdd07.png">
 ---
 
 ## Features
