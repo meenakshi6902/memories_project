@@ -2,7 +2,7 @@ Memories Manager (Full-Stack App)
 
 ---
 
-<p align="center"><img src="./mem.JPG" width="800"></p>
+![110456493-38eb7100-80fc-11eb-8bca-79cfa322df8f](https://user-images.githubusercontent.com/115708565/225047542-0ded7842-afd5-41e2-822d-719f45cbdeba.jpeg)
 
 ---
 
