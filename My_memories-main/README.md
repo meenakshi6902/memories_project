@@ -1,9 +1,7 @@
 Memories Manager (Full-Stack App)
 
 ---
-
-<p align="center"><img src="./mem.JPG" width="800"></p>
-
+<img width="960" alt="demo" src="https://user-images.githubusercontent.com/115708565/225049524-04ad6461-a6f2-4eb0-8b9d-a5ac9a1cdd07.png">
 ---
 
 ## Features
